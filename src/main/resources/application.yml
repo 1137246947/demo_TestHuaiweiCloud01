@@ -1,0 +1,6 @@
+spring:
+  thymeleaf:
+    enabled: true
+server:
+  port: 9130
+
